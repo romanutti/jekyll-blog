@@ -18,9 +18,8 @@ paginate:	5 # The number of posts to show per page on your homepage
 name: 'Marco Romanutti'
 bio: >
   Passionate software engineer with a double degree in computer
-  science and business information systems and several experience
-  using different technology stacks. Equally passionate about
-  cycling.
+  science and business information systems and experience using
+  different technology stacks. Equally passionate about cycling.
 author_image: "/assets/images/author.jpg"
 twitter_username: romanutti
 github_username:  romanutti
