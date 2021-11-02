@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="/assets/images/portrait.jpg"></amp-img>
-
 Marco Romanutti is a passionate Software Engineer with a double degree in Computer Science and Business Information 
 Technology respectively. He is working at Zühlke since March 2021. In previous projects het worked already with 
 different technology stacks. His focus is on fullstack development with experience mostly in Spring Boot and Java 
